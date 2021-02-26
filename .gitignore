@@ -131,3 +131,4 @@ dmypy.json
 *.swp
 *aclImdb*
 .\tutorials\08_saving_loading\training*
+secrets.json
